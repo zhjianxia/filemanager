@@ -12,7 +12,7 @@ import (
 	_ "github.com/GoAdminGroup/themes/sword"
 
 	"github.com/zhjianxia/filemanager"
-	"github.com/zhjianxia/filemanager/modules/root"
+	"github.com/GoAdminGroup/filemanager/modules/root"
 	"github.com/GoAdminGroup/go-admin/engine"
 	"github.com/GoAdminGroup/go-admin/modules/config"
 	"github.com/GoAdminGroup/go-admin/modules/language"
